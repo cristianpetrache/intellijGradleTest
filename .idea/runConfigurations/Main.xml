@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <classpathModifications>
+      <entry path="$PROJECT_DIR$/conf" />
+    </classpathModifications>
+    <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <module name="test.main" />
+    <option name="PROGRAM_PARAMETERS" value="-Dorg.gradle.logging.level" />
+    <option name="VM_PARAMETERS" value="-server" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.example.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
